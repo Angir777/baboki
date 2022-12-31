@@ -1,6 +1,7 @@
 # Baboki
 
-An online shop based on pure php + bootstrap
+An online shop based on pure php + bootstrap.
+Demo: https://php-shop.skrzypniak.pl/
 
 ## Project launch
 1. Download this repository,
