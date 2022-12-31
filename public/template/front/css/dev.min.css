@@ -1,0 +1,9 @@
+/*!
+    *****************************************
+
+    * File: dev.min.css
+    * Version: 1.0.0
+
+    *****************************************
+*/
+pre {position: relative;max-width: 100%;margin: 30px 15px;background: #404040;word-break: break-all;word-wrap: break-word;white-space: pre;font-size: 14px;color: #ffffff;border-left: 3px solid #111111;border-radius: 0px;} pre b {background: #111;font-size: 1rem;color: #fff;font-weight: 700;}

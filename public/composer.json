@@ -1,0 +1,7 @@
+{
+    "name": "angir/fixaproblem",
+    "require": {
+        "fortawesome/font-awesome": "^5.8",
+        "twbs/bootstrap": "3.3.7"
+    }
+}
