@@ -3,6 +3,8 @@
 An online shop based on pure php + bootstrap.
 Demo: https://php-shop.skrzypniak.pl/
 
+![My Image](https://github.com/Angir777/baboki/blob/master/screen-baboki.jpg)
+
 ## Project launch
 1. Download this repository,
 2. Create a database and import the file `database/database-shop.sql` and `database/database-newsletter.sql`,
