@@ -1,7 +1,6 @@
 # Baboki
 
 An online shop based on pure php + bootstrap.
-Demo: https://php-shop.skrzypniak.pl/
 
 ![My Image](https://github.com/Angir777/baboki/blob/master/screen-baboki.jpg)
 
